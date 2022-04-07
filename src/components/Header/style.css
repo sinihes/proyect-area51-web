@@ -1,0 +1,42 @@
+nav
+{
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 200;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #000;
+  color: #fff;
+}
+
+.ul-nav
+{
+  display: none;
+}
+
+@media screen and (min-width:760px) {
+  .ul-nav{
+    display: flex;
+  }
+  .icon-menu{
+    display: none;
+  }
+}
+
+.ul-nav li
+{
+  padding: 2px 5px;
+  margin: 0px 20px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.icon-menu
+{
+  color: #fff;
+  font-size: 32px;
+  cursor: pointer;
+}
