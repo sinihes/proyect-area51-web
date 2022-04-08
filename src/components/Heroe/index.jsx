@@ -4,7 +4,7 @@ import './style.css'
 
 function Heroe() {
   return (
-    <section className='section-hero'>
+    <section className='section-hero' name='section-hero'>
       <div className='wrapper-hero-video'>
         <video src={video} autoPlay loop muted type='video/mp4'></video>
       </div>

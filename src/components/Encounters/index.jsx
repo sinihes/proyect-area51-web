@@ -11,7 +11,7 @@ import './style.css';
 
 function Encounters() {
   return (
-    <section className="section-encounters">
+    <section className="section-encounters" name='sectionEncounters'>
       <article className="article-encounters">
         <h2>Caso Montserrat</h2>
         <div className="wrapper--article">

@@ -5,7 +5,7 @@ import './style.css'
 
 function Galery() {
   return (
-    <section className="section-galery">
+    <section className="section-galery" name='sectionGalery'>
       <h2>GALERIA</h2>
       <div className="wrapper-galey">
         {
