@@ -10,7 +10,7 @@ function Heroe() {
       </div>
       <div className="wrapper-descriptions">
         <p>¿Estas buscando la verdad? Te ayudaremos a encontrarla</p>
-        <p>La verdad esta ahí fuera. Qué nada te detenga para encontrarla.</p>
+        <p>La verdad está ahí fuera. Qué nada te detenga para encontrarla.</p>
       </div>
     </section>
   )
