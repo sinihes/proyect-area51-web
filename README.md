@@ -1,12 +1,25 @@
-.color1 {color: #000d0f;}
-.color2 {color: #0c2931;}
-.color3 {color: #214c5b;}
-.color4 {color: #3f778b;}
-.color5 {color: #55a49e;}
+# WEB AREA 51
+## PROYECTO PERSONAL
+
+**TECNOLOGÍAS UTILIZADAS**
+
+- vite: para lanzar el proyecto.
+- react y react dom.
+- react router.
+- react scroll.
+- react-icons.
+- css.
+
+El proyecto está deployado en Vercel.
+
+[https://proyect-area51-9u295033n-sinihes.vercel.app/](https://proyect-area51-9u295033n-sinihes.vercel.app/ "https://proyect-area51-9u295033n-sinihes.vercel.app/")
 
 
-background-color: #000d0f;
-background-color: #0c2931;
-background-color: #214c5b;
-background-color: #3f778b;
-background-color: #55a49e; 
+
+------------
+
+
+------------
+
+
+------------
